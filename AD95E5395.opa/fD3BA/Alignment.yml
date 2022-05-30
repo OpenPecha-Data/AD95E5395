@@ -1,0 +1,19 @@
+segment_sources:
+  IB04A4A0A:
+    type: origin_type
+    relation: translation
+    language: en
+  IBA5BA442:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1b9b56423ebb4699936170d58f0dcc87:
+    IB04A4A0A: a9458d829f044c0eb24dc01260f9e15c
+    IBA5BA442: b52cbdeb3bf042f689ebfb531fa983f9
+  ba5d494e6cc643548d2fcaeed71128b9:
+    IB04A4A0A: 48847d9d9a8344488c920a62334fe395
+    IBA5BA442: aed83ebfa61243848489abebf96e0de7
+  53c2154156f14ec49a86d995760b48ac:
+    IB04A4A0A: 773175b0f5b743abbf03a78c338378e4
+    IBA5BA442: c0aa201ed8e04356b957a9fc0e7f2a60
